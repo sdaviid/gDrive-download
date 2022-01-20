@@ -1,4 +1,4 @@
-Simple gdriver downloader for big files using this code https://stackoverflow.com/a/39225272
+Simple Google Driver CLI downloader for big files using this code https://stackoverflow.com/a/39225272
 
 
 To use
@@ -15,6 +15,12 @@ For more
 ```bash
 gdrive.py --help
 ```
+
+Requirements
+
+`python >= 3.8`
+
+`requests`
 
 
 This code was uploaded just for me use on my VMs.
